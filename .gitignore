@@ -1,0 +1,19 @@
+# local scratch / build intermediates — not part of the deliverable
+*.o
+*.OBJ
+*.obj
+*.map
+*.MAP
+*.log
+*.bak
+*.tmp
+# editor / OS noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# NOTE: bin/*.EXE are the built deliverables and ARE intentionally committed.
+#       (Ignore only if you prefer to build them locally: uncomment below.)
+# bin/*.EXE
