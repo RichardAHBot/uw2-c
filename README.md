@@ -1,4 +1,4 @@
-# UW2 — *Ultima Underworld II: Labyrinth of Worlds* (©1993 Looking Glass) — decompiled & rebuilt
+# UW2 — decompiled & rebuilt
 
 This repository is the full result of decompiling the 1993 DOS binary `UW2.EXE` and
 reconstructing a **source** that compiles to an **alternative binary** that behaves
